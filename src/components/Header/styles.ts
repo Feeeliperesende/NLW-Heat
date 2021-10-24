@@ -15,7 +15,13 @@ export const styles = StyleSheet.create({
     logoutText:{
         fontSize:15,
         fontFamily:FONTS.REGULAR,
-        color:COLORS.WHITE
+        color:COLORS.WHITE,
+        marginRight:20,
 
+    },
+    logoutbutton:{
+        flexDirection:'row',
+        justifyContent:'space-between',
+        alignItems:'center',
     }
 })
