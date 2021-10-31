@@ -3,6 +3,7 @@
     "name": "heat",
     "slug": "heat",
     "version": "1.0.0",
+    "scheme":"heat",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
